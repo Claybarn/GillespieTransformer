@@ -20,7 +20,7 @@ This model combines the powerful attention mechanisms of transformers with the p
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/GillespieTransformer.git
+git clone https://github.com/Claybarn/GillespieTransformer.git
 cd GillespieTransformer
 # Install required packages
 pip install torch numpy
